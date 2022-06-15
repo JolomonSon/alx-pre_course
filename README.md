@@ -1,1 +1,1 @@
-## Software Engineering with ALX.
+## Software Engineering with ALX
